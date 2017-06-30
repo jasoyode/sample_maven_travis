@@ -5,7 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-public class HelloWorldTest3 {
+public class HelloWorld3Test {
 
 	private HelloWorld subject;
 
